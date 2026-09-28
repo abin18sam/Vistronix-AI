@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vistronix-mvp"
+version = "0.1.0"
+description = "Reliable document ingestion and PDF parsing foundation for VisTronix AI"
+requires-python = ">=3.10"
+dependencies = [
+  "fastapi==0.115.0",
+  "SQLAlchemy==2.0.36",
+  "celery[redis]==5.4.0",
+  "PyMuPDF==1.26.5",
+  "pydantic-settings==2.5.2",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100

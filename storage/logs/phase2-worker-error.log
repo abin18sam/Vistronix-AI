@@ -1,0 +1,60 @@
+Camelot is not installed. Table extraction will be skipped. Install with: pip install camelot-py[cv] (and Ghostscript).
+[2026-09-20 21:56:13,373: WARNING/MainProcess] C:\Users\abins\OneDrive\Desktop\PROJECTS\VisTronix Ai\.venv\Lib\site-packages\celery\worker\consumer\consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2026-09-20 21:56:13,396: INFO/MainProcess] Connected to redis://localhost:6379/0
+[2026-09-20 21:56:13,399: WARNING/MainProcess] C:\Users\abins\OneDrive\Desktop\PROJECTS\VisTronix Ai\.venv\Lib\site-packages\celery\worker\consumer\consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2026-09-20 21:56:13,403: INFO/MainProcess] mingle: searching for neighbors
+[2026-09-20 21:56:14,426: INFO/MainProcess] mingle: all alone
+[2026-09-20 21:56:14,446: INFO/MainProcess] celery@AbinSystem ready.
+[2026-09-20 21:56:36,820: INFO/MainProcess] Task vistronix.parse_document[b6494c34-eb00-47d8-9d8e-a0829689a22d] received
+[2026-09-20 21:56:36,911: INFO/MainProcess] Per-page detection complete: 0 digital page(s), 7 scanned page(s)
+[2026-09-20 21:56:38,576: INFO/MainProcess] Page 1 (OCR): extracted 4 text element(s)
+[2026-09-20 21:56:40,669: INFO/MainProcess] Page 2 (OCR): extracted 13 text element(s)
+[2026-09-20 21:56:42,752: INFO/MainProcess] Page 3 (OCR): extracted 12 text element(s)
+[2026-09-20 21:56:44,734: INFO/MainProcess] Page 4 (OCR): extracted 10 text element(s)
+[2026-09-20 21:56:46,750: INFO/MainProcess] Page 5 (OCR): extracted 11 text element(s)
+[2026-09-20 21:56:54,519: ERROR/MainProcess] OCR failed on page 6
+Traceback (most recent call last):
+  File "C:\Users\abins\OneDrive\Desktop\PROJECTS\VisTronix Ai\vistronix-pdf-extractor\parser\scanned_parser.py", line 200, in parse_scanned_page
+    lines = _ocr_page_to_lines(image)
+  File "C:\Users\abins\OneDrive\Desktop\PROJECTS\VisTronix Ai\vistronix-pdf-extractor\parser\scanned_parser.py", line 73, in _ocr_page_to_lines
+    ocr_data = pytesseract.image_to_data(image, output_type=pytesseract.Output.DICT)
+  File "C:\Users\abins\OneDrive\Desktop\PROJECTS\VisTronix Ai\.venv\Lib\site-packages\pytesseract\pytesseract.py", line 596, in image_to_data
+    return {
+           ~
+    ...<6 lines>...
+        Output.STRING: lambda: run_and_get_output(*args),
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    }[output_type]()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\abins\OneDrive\Desktop\PROJECTS\VisTronix Ai\.venv\Lib\site-packages\pytesseract\pytesseract.py", line 602, in <lambda>
+    Output.DICT: lambda: file_to_dict(run_and_get_output(*args), '\t', -1),
+                                      ~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\abins\OneDrive\Desktop\PROJECTS\VisTronix Ai\.venv\Lib\site-packages\pytesseract\pytesseract.py", line 352, in run_and_get_output
+    run_tesseract(**kwargs)
+    ~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\abins\OneDrive\Desktop\PROJECTS\VisTronix Ai\.venv\Lib\site-packages\pytesseract\pytesseract.py", line 284, in run_tesseract
+    raise TesseractError(proc.returncode, get_errors(error_string))
+pytesseract.pytesseract.TesseractError: (3221225477, '')
+[2026-09-20 21:56:54,583: INFO/MainProcess] Page 6 (OCR): extracted 0 text element(s)
+[2026-09-20 21:56:56,065: INFO/MainProcess] Page 7 (OCR): extracted 7 text element(s)
+[2026-09-20 21:56:56,074: INFO/MainProcess] Parsed 7 page(s): overall pdf_type=scanned (per-page types: ['scanned', 'scanned', 'scanned', 'scanned', 'scanned', 'scanned', 'scanned'])
+[2026-09-20 21:56:56,408: INFO/MainProcess] Extracted image page1_img1.jpeg (page 1)
+[2026-09-20 21:56:56,860: INFO/MainProcess] Extracted image page2_img1.jpeg (page 2)
+[2026-09-20 21:56:57,284: INFO/MainProcess] Extracted image page3_img1.jpeg (page 3)
+[2026-09-20 21:56:57,773: INFO/MainProcess] Extracted image page4_img1.jpeg (page 4)
+[2026-09-20 21:56:58,174: INFO/MainProcess] Extracted image page5_img1.jpeg (page 5)
+[2026-09-20 21:56:58,608: INFO/MainProcess] Extracted image page6_img1.jpeg (page 6)
+[2026-09-20 21:56:58,957: INFO/MainProcess] Extracted image page7_img1.jpeg (page 7)
+[2026-09-20 21:56:58,959: INFO/MainProcess] Tagged 19 element(s) as equations
+[2026-09-20 21:56:58,960: INFO/MainProcess] Built final JSON for 'AMG DEEP LEARNING BACKPROPOGATION.pdf': 7 page(s), pdf_type=scanned
+[2026-09-20 21:56:58,978: INFO/MainProcess] Task vistronix.parse_document[b6494c34-eb00-47d8-9d8e-a0829689a22d] succeeded in 22.15807869999844s: None

@@ -1,0 +1,37 @@
+{
+  "document_name": "AMG DEEP LEARNING BACKPROPOGATION.pdf",
+  "pdf_type": "mixed",
+  "pages": [
+    {
+      "page_number": 1,
+      "pdf_type": "digital",
+      "elements": [
+        {"type": "heading", "text": "Backpropagation in Deep Learning", "font": 20.0, "bbox": [50.0, 48.0, 410.0, 78.0]},
+        {"type": "text", "text": "Backpropagation is the algorithm used to train neural networks by calculating the gradient of the loss function with respect to each weight.", "font": 12.0, "bbox": [50.0, 95.0, 520.0, 140.0]},
+        {"type": "heading", "text": "1. Forward Pass", "font": 16.0, "bbox": [50.0, 160.0, 260.0, 185.0]},
+        {"type": "text", "text": "During the forward pass, input data is passed through each layer of the network to produce an output prediction.", "font": 12.0, "bbox": [50.0, 195.0, 520.0, 230.0]},
+        {"type": "equation", "text": "z = w*x + b", "font": 12.0, "bbox": [50.0, 240.0, 220.0, 260.0]},
+        {"type": "image", "file": "page1_img1.png", "bbox": [90.0, 270.0, 400.0, 480.0]}
+      ]
+    },
+    {
+      "page_number": 2,
+      "pdf_type": "digital",
+      "elements": [
+        {"type": "heading", "text": "2. Backward Pass", "font": 16.0, "bbox": [50.0, 50.0, 260.0, 75.0]},
+        {"type": "text", "text": "The backward pass computes the gradient of the loss with respect to each weight using the chain rule.", "font": 12.0, "bbox": [50.0, 85.0, 520.0, 115.0]},
+        {"type": "equation", "text": "dL/dw = dL/dz * dz/dw", "font": 12.0, "bbox": [50.0, 125.0, 260.0, 145.0]},
+        {"type": "table", "headers": ["Layer", "Activation", "Output Size"], "rows": [["Input", "None", "784"], ["Hidden 1", "ReLU", "128"], ["Output", "Softmax", "10"]]}
+      ]
+    },
+    {
+      "page_number": 3,
+      "pdf_type": "scanned",
+      "elements": [
+        {"type": "heading", "text": "Handwritten Notes: Gradient Descent", "font": 15.0, "bbox": [48.0, 40.0, 380.0, 68.0]},
+        {"type": "text", "text": "Gradient descent updates each weight in the direction that reduces the loss the fastest.", "font": 11.0, "bbox": [48.0, 80.0, 500.0, 105.0]},
+        {"type": "equation", "text": "w = w - lr * dL/dw", "font": 11.0, "bbox": [48.0, 115.0, 260.0, 135.0]}
+      ]
+    }
+  ]
+}

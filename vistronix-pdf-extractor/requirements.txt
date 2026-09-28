@@ -1,0 +1,29 @@
+# ==========================================================
+# VisTronix AI - PDF Extractor Engine
+# Python dependencies
+# ==========================================================
+
+# --- Web API layer ---
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-multipart==0.0.9        # required by FastAPI for file uploads
+
+# --- Digital PDF parsing ---
+pdfplumber==0.11.4
+PyMuPDF==1.24.9                # imported as "fitz"
+
+# --- Scanned PDF / OCR ---
+pytesseract==0.3.10
+ocrmypdf==16.5.0                # optional, used for OCR-ing scanned PDFs
+pdf2image==1.17.0               # renders PDF pages to images for OCR
+
+# --- Image handling ---
+Pillow==10.4.0
+opencv-python==4.10.0.84
+
+# --- Table extraction ---
+camelot-py[cv]==0.11.0
+# tabula-py==2.9.3              # optional alternative to Camelot, needs Java installed
+
+# --- Misc utilities ---
+numpy==1.26.4

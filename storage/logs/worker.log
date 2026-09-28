@@ -1,0 +1,19 @@
+ 
+ -------------- celery@AbinSystem v5.4.0 (opalescent)
+--- ***** ----- 
+-- ******* ---- Windows-11-10.0.26200-SP0 2026-09-20 21:28:07
+- *** --- * --- 
+- ** ---------- [config]
+- ** ---------- .> app:         vistronix:0x2a664b09be0
+- ** ---------- .> transport:   redis://localhost:6379/0
+- ** ---------- .> results:     disabled://
+- *** --- * --- .> concurrency: 16 (solo)
+-- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+--- ***** ----- 
+ -------------- [queues]
+                .> celery           exchange=celery(direct) key=celery
+                
+
+[tasks]
+  . vistronix.parse_document
+

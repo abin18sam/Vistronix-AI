@@ -1,0 +1,866 @@
+{
+  "document_name": "AMG DEEP LEARNING BACKPROPOGATION.pdf",
+  "pdf_type": "scanned",
+  "pages": [
+    {
+      "page_number": 1,
+      "elements": [
+        {
+          "type": "image",
+          "file": "page1_img1.jpeg",
+          "bbox": [
+            0.0,
+            123.61,
+            595.0,
+            718.39
+          ]
+        },
+        {
+          "type": "text",
+          "text": "geeks",
+          "font": 21.75,
+          "bbox": [
+            381.0,
+            452.0,
+            429.0,
+            481.0
+          ]
+        },
+        {
+          "type": "text",
+          "text": "ak Nous»",
+          "font": 20.81,
+          "bbox": [
+            104.0,
+            488.5,
+            218.0,
+            528.0
+          ]
+        },
+        {
+          "type": "text",
+          "text": ": py CH, *~ AR 4 Cons) * 2 ») = Si a <",
+          "font": 11.62,
+          "bbox": [
+            44.5,
+            535.0,
+            574.5,
+            661.0
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\\* Rate",
+          "font": 19.88,
+          "bbox": [
+            192.5,
+            660.0,
+            470.5,
+            705.0
+          ]
+        }
+      ],
+      "pdf_type": "scanned"
+    },
+    {
+      "page_number": 2,
+      "elements": [
+        {
+          "type": "image",
+          "file": "page2_img1.jpeg",
+          "bbox": [
+            -0.0,
+            6.81,
+            595.0,
+            835.19
+          ]
+        },
+        {
+          "type": "text",
+          "text": "crop \\: and yl Tn pur:",
+          "font": 13.12,
+          "bbox": [
+            17.5,
+            9.0,
+            479.0,
+            83.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "=) jO",
+          "font": 8.81,
+          "bbox": [
+            103.0,
+            181.5,
+            143.0,
+            196.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "OR) CS. O20.",
+          "font": 5.25,
+          "bbox": [
+            260.0,
+            249.5,
+            425.5,
+            259.5
+          ]
+        },
+        {
+          "type": "text",
+          "text": "xo",
+          "font": 7.88,
+          "bbox": [
+            242.5,
+            266.5,
+            267.5,
+            277.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "Us, 2 0-20, Wy 20.35",
+          "font": 12.0,
+          "bbox": [
+            39.5,
+            295.0,
+            543.5,
+            321.5
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Output: :",
+          "font": 12.56,
+          "bbox": [
+            307.5,
+            343.0,
+            409.0,
+            371.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "> 0.40,",
+          "font": 9.75,
+          "bbox": [
+            110.0,
+            394.5,
+            192.0,
+            410.5
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Hiddon =0.35, Output: obo",
+          "font": 16.12,
+          "bbox": [
+            45.5,
+            478.5,
+            362.5,
+            508.5
+          ]
+        },
+        {
+          "type": "text",
+          "text": "ep 2: Pan.",
+          "font": 15.0,
+          "bbox": [
+            11.5,
+            528.5,
+            328.5,
+            562.5
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "+ cn \\",
+          "font": 12.75,
+          "bbox": [
+            356.0,
+            576.0,
+            442.5,
+            597.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "9 \\ntil= ) Quy i",
+          "font": 10.88,
+          "bbox": [
+            52.5,
+            626.0,
+            490.5,
+            655.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "o-ls)+ 92)",
+          "font": 15.19,
+          "bbox": [
+            250.0,
+            676.0,
+            450.5,
+            700.5
+          ]
+        },
+        {
+          "type": "text",
+          "text": "W he LO,",
+          "font": 6.09,
+          "bbox": [
+            341.5,
+            747.0,
+            387.5,
+            767.5
+          ]
+        }
+      ],
+      "pdf_type": "scanned"
+    },
+    {
+      "page_number": 3,
+      "elements": [
+        {
+          "type": "image",
+          "file": "page3_img1.jpeg",
+          "bbox": [
+            0.0,
+            4.76,
+            595.0,
+            837.25
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "415) ouk hy sigeno \\ 4",
+          "font": 12.94,
+          "bbox": [
+            81.5,
+            23.5,
+            535.5,
+            83.5
+          ]
+        },
+        {
+          "type": "text",
+          "text": "l re WI OM |",
+          "font": 5.25,
+          "bbox": [
+            227.0,
+            96.5,
+            553.0,
+            123.5
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "nek ho £ + hi 4",
+          "font": 18.38,
+          "bbox": [
+            57.0,
+            185.0,
+            552.0,
+            223.5
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "= @.05 x0. ) ini",
+          "font": 6.75,
+          "bbox": [
+            143.5,
+            243.5,
+            517.0,
+            280.0
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Be od",
+          "font": 8.25,
+          "bbox": [
+            104.5,
+            301.0,
+            407.0,
+            317.5
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "our",
+          "font": 27.75,
+          "bbox": [
+            54.5,
+            356.0,
+            99.0,
+            393.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "= & Or",
+          "font": 6.84,
+          "bbox": [
+            186.0,
+            483.5,
+            463.0,
+            505.5
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "nek, = (oukh + Coury, 4)",
+          "font": 15.19,
+          "bbox": [
+            51.5,
+            577.0,
+            454.0,
+            615.5
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "of +",
+          "font": 9.75,
+          "bbox": [
+            119.5,
+            635.0,
+            337.0,
+            653.5
+          ]
+        },
+        {
+          "type": "text",
+          "text": "VOSG x",
+          "font": 7.88,
+          "bbox": [
+            183.0,
+            684.0,
+            429.0,
+            703.0
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "RY 2 gigenoid",
+          "font": 15.66,
+          "bbox": [
+            124.0,
+            729.5,
+            370.5,
+            788.5
+          ]
+        },
+        {
+          "type": "text",
+          "text": "[po",
+          "font": 13.5,
+          "bbox": [
+            188.5,
+            816.5,
+            226.5,
+            834.5
+          ]
+        }
+      ],
+      "pdf_type": "scanned"
+    },
+    {
+      "page_number": 4,
+      "elements": [
+        {
+          "type": "image",
+          "file": "page4_img1.jpeg",
+          "bbox": [
+            0.0,
+            9.85,
+            595.0,
+            832.15
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "3+",
+          "font": 10.12,
+          "bbox": [
+            66.0,
+            20.5,
+            94.5,
+            34.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "= > 4 2 \\",
+          "font": 2.62,
+          "bbox": [
+            44.0,
+            73.0,
+            518.0,
+            105.5
+          ]
+        },
+        {
+          "type": "text",
+          "text": "| Peay pre. MY",
+          "font": 5.62,
+          "bbox": [
+            239.0,
+            190.5,
+            340.0,
+            207.0
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "SRP pogatiog reste Updating the Neuron (step (os a",
+          "font": 19.5,
+          "bbox": [
+            15.0,
+            232.5,
+            449.0,
+            338.5
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "By (oat y LS (ow",
+          "font": 19.12,
+          "bbox": [
+            64.5,
+            353.0,
+            424.5,
+            413.5
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "ie 2 \\",
+          "font": 20.06,
+          "bbox": [
+            87.5,
+            431.5,
+            201.5,
+            504.5
+          ]
+        },
+        {
+          "type": "text",
+          "text": "4 Xo Couk",
+          "font": 9.0,
+          "bbox": [
+            138.0,
+            530.5,
+            339.0,
+            571.0
+          ]
+        },
+        {
+          "type": "text",
+          "text": "by hus { be",
+          "font": 8.25,
+          "bbox": [
+            91.5,
+            561.0,
+            342.5,
+            674.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "7 = !¢o. ely:",
+          "font": 11.62,
+          "bbox": [
+            154.0,
+            684.5,
+            265.0,
+            715.5
+          ]
+        },
+        {
+          "type": "text",
+          "text": "ol",
+          "font": 6.0,
+          "bbox": [
+            130.5,
+            759.0,
+            144.5,
+            767.0
+          ]
+        }
+      ],
+      "pdf_type": "scanned"
+    },
+    {
+      "page_number": 5,
+      "elements": [
+        {
+          "type": "image",
+          "file": "page5_img1.jpeg",
+          "bbox": [
+            0.0,
+            18.22,
+            595.0,
+            823.77
+          ]
+        },
+        {
+          "type": "text",
+          "text": "at why Sy Sy xw xe (ow #) we. uk eo Go) x ws x",
+          "font": 10.5,
+          "bbox": [
+            88.5,
+            94.0,
+            569.5,
+            184.5
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "»",
+          "font": 18.38,
+          "bbox": [
+            519.0,
+            191.5,
+            531.5,
+            216.0
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "% ba)",
+          "font": 25.12,
+          "bbox": [
+            265.5,
+            305.0,
+            428.0,
+            340.5
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "ad oO. Lg",
+          "font": 22.22,
+          "bbox": [
+            331.5,
+            350.0,
+            406.5,
+            416.0
+          ]
+        },
+        {
+          "type": "text",
+          "text": "re",
+          "font": 6.75,
+          "bbox": [
+            69.5,
+            423.5,
+            80.0,
+            432.5
+          ]
+        },
+        {
+          "type": "text",
+          "text": "= a blac ( (",
+          "font": 9.28,
+          "bbox": [
+            144.0,
+            453.0,
+            480.0,
+            521.0
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "x By yy C4",
+          "font": 18.0,
+          "bbox": [
+            238.0,
+            551.0,
+            418.5,
+            594.5
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "W now =",
+          "font": 7.5,
+          "bbox": [
+            86.0,
+            580.0,
+            165.0,
+            594.0
+          ]
+        },
+        {
+          "type": "text",
+          "text": "| how = x By PG log)",
+          "font": 14.06,
+          "bbox": [
+            166.0,
+            621.5,
+            556.0,
+            674.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "= x 0.59.39 ia &",
+          "font": 5.44,
+          "bbox": [
+            153.5,
+            746.0,
+            521.0,
+            774.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "20-3984",
+          "font": 13.5,
+          "bbox": [
+            167.5,
+            783.0,
+            259.5,
+            801.0
+          ]
+        }
+      ],
+      "pdf_type": "scanned"
+    },
+    {
+      "page_number": 6,
+      "elements": [
+        {
+          "type": "image",
+          "file": "page6_img1.jpeg",
+          "bbox": [
+            0.87,
+            0.0,
+            594.12,
+            842.0
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "new = Boy",
+          "font": 15.75,
+          "bbox": [
+            46.5,
+            21.5,
+            311.0,
+            54.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "= Obs",
+          "font": 10.5,
+          "bbox": [
+            98.0,
+            73.0,
+            187.5,
+            93.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "> 2 OF",
+          "font": 8.62,
+          "bbox": [
+            110.5,
+            181.5,
+            284.0,
+            204.5
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "oO: +e bs des ayer,",
+          "font": 22.5,
+          "bbox": [
+            93.0,
+            236.5,
+            353.0,
+            306.0
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "- 2 x Cx)”",
+          "font": 14.81,
+          "bbox": [
+            192.0,
+            319.0,
+            320.0,
+            349.0
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "SX 0. 01837 | ) mak",
+          "font": 15.38,
+          "bbox": [
+            226.5,
+            477.0,
+            490.5,
+            526.0
+          ]
+        },
+        {
+          "type": "text",
+          "text": "is",
+          "font": 1.88,
+          "bbox": [
+            472.0,
+            552.5,
+            489.5,
+            555.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "lg new € i \\ / 40.10",
+          "font": 10.12,
+          "bbox": [
+            17.5,
+            585.0,
+            478.5,
+            674.0
+          ]
+        },
+        {
+          "type": "text",
+          "text": "‘old - YX Sho x x)",
+          "font": 11.62,
+          "bbox": [
+            169.5,
+            725.5,
+            409.5,
+            756.0
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "> O-25- 0.5 x 0.",
+          "font": 8.25,
+          "bbox": [
+            119.0,
+            785.5,
+            433.5,
+            806.5
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "=>",
+          "font": 7.12,
+          "bbox": [
+            131.5,
+            826.0,
+            142.0,
+            835.5
+          ]
+        }
+      ],
+      "pdf_type": "scanned"
+    },
+    {
+      "page_number": 7,
+      "elements": [
+        {
+          "type": "image",
+          "file": "page7_img1.jpeg",
+          "bbox": [
+            0.0,
+            24.91,
+            595.0,
+            817.08
+          ]
+        },
+        {
+          "type": "text",
+          "text": "la XY Wy news x, Sho % 3 ) 1 Lea 0 J",
+          "font": 9.0,
+          "bbox": [
+            37.5,
+            39.0,
+            557.0,
+            81.0
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "O15 X OID",
+          "font": 12.38,
+          "bbox": [
+            228.5,
+            95.0,
+            455.0,
+            115.5
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "= 0.2992",
+          "font": 8.62,
+          "bbox": [
+            139.5,
+            154.0,
+            241.0,
+            169.0
+          ]
+        },
+        {
+          "type": "text",
+          "text": "> hx sb }",
+          "font": 10.69,
+          "bbox": [
+            187.0,
+            205.5,
+            530.0,
+            230.5
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "xl 0.01331 + 0.01499)",
+          "font": 16.12,
+          "bbox": [
+            326.0,
+            260.0,
+            544.5,
+            288.0
+          ]
+        },
+        {
+          "type": "text",
+          "text": "ork",
+          "font": 4.5,
+          "bbox": [
+            464.5,
+            308.5,
+            481.0,
+            314.5
+          ]
+        },
+        {
+          "type": "equation",
+          "text": "= 4",
+          "font": 5.62,
+          "bbox": [
+            187.5,
+            339.0,
+            371.0,
+            347.5
+          ]
+        }
+      ],
+      "pdf_type": "scanned"
+    }
+  ]
+}
